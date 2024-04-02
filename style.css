@@ -1,0 +1,23 @@
+body{
+    background-color: #a791f7;}
+
+form{
+    margin-top: 55%;}
+
+.forms-label{
+    color:azure;}
+
+img{
+    margin-top: 50%;
+    width: 200;
+    height: 300px;}
+
+.botao{
+    margin-top: 30px;
+}
+
+.btn{
+    color: aliceblue;
+    width: 40%;
+    font-size: 18px;
+}
